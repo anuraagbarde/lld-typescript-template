@@ -1,3 +1,5 @@
+This is an abstract template.
+
 # Design Tic Tac Toe
 
 ## Requirements
